@@ -1,8 +1,7 @@
 {
     "webcredentials": {
         "apps": [
-            "com.britenites.britenow”,
-	    "com.britenites.crewlead"
+            "com.britenites.britenow”
         ]
     }
 }
