@@ -5,7 +5,12 @@
              "appIDs": [ "DMH7Y6P6PW.com.britenites.britenow",
                          "DMH7Y6P6PW.com.britenites.crewlead"
                          ],
-             "components": []
+             "components": [
+                {
+                  "/": "/ui/*",
+                  "comment": "Matches any URL with a path that starts with /ui/."
+               }
+             ]
            }
        ]
    },
