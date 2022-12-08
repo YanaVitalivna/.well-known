@@ -1,19 +1,4 @@
 {
- "applinks": {
-      "details": [
-           {
-             "appIDs": [ "DMH7Y6P6PW.com.britenites.britenow",
-                         "DMH7Y6P6PW.com.britenites.crewlead"
-                         ],
-             "components": [
-                {
-                  "/": "/testAutoFill/*",
-                  "comment": "Matches any URL with a path that starts with /testAutoFill/."
-               }
-             ]
-           }
-       ]
-   },
     "webcredentials": {
         "apps": [
             "DMH7Y6P6PW.com.britenites.britenow",
