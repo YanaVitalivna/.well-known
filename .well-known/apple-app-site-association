@@ -1,8 +1,17 @@
 {
-    "webcredentials": {
-        "apps": [
-            "DMH7Y6P6PW.com.britenites.britenow",
-            "DMH7Y6P6PW.com.britenites.crewlead"
-        ]
-    }
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "DMH7Y6P6PW.com.britenites.britenow",
+			"paths": [
+				"*"
+			]
+		}]
+	},
+	"webcredentials": {
+		"apps": [
+			"DMH7Y6P6PW.com.britenites.britenow",
+			"DMH7Y6P6PW.com.britenites.crewlead"
+		]
+	}
 }
