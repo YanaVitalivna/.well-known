@@ -1,16 +1,28 @@
 {
-	"applinks": {
-		"apps": ["DMH7Y6P6PW.com.britenites.britenow"],
-		"details": [{
-			"appID": "DMH7Y6P6PW.com.britenites.britenow",
-			"paths": [
-				"*"
-			]
-		}]
-	},
-	"webcredentials": {
-		"apps": [
-			"DMH7Y6P6PW.com.britenites.britenow"
-		]
-	}
+    "applinks": {
+        "apps": [
+            "DMH7Y6P6PW.com.britenites.britenow",
+	    "DMH7Y6P6PW.com.britenites.crewlead"
+        ],
+        "details": [
+            {
+                "appID": "DMH7Y6P6PW.com.britenites.britenow",
+                "paths": [
+                    "*"
+                ]
+            },
+	    {
+                "appID": "DMH7Y6P6PW.com.britenites.crewlead",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "DMH7Y6P6PW.com.britenites.britenow",
+            "DMH7Y6P6PW.com.britenites.crewlead"
+        ]
+    }
 }
